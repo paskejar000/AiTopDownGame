@@ -1,3 +1,4 @@
+AI Chat link: https://app.schoolai.com/student-space?code=DMZ8&sessionId=cm84qz3ha0i7qz8blejfbacmu
 -- Jarom Paskett's AI Game --
 Your objective is to defeat all the enemies (red robots)
 
